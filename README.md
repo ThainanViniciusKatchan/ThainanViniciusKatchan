@@ -33,6 +33,6 @@
 <br>
 <br>
 
-![alt text](../assets/github-snake-dark.svg)
+![alt text](./assets/github-snake-dark.svg)
 
 <h1 style="text-align: center; margin-top: 20px;"> Tanks for reading </h1>
