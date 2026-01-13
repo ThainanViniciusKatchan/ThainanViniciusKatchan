@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <strong style="font-size: 20px;"> Hi ✋, here Thainan Vinicius Katchan </strong>
     <br>
     Aim developer student, I study Python, Java, JS, HTML, and CSS.
@@ -9,8 +9,8 @@
     <br>
     I'm a student at home Self-taught.
 </div>
-
-<div style="text-align: center; margin-top: 20px;">
+<br>  
+<div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
 </div>
 <hr>
-<div style="text-align: center; margin-top: 20px;">
+<div align="center">
     <strong style="font-size: 15px;"> In addition to programming knowledge, I have expertise in design and applications.</strong>
     <br>
     <br>
@@ -33,6 +33,8 @@
 <br>
 <br>
 
-![alt text](./assets/github-snake-dark.svg)
+<div align="center">
+    <img src="./assets/github-snake-dark.svg" alt="github-snake-dark">
+</div>
 
-<h1 style="text-align: center; margin-top: 20px;"> Tanks for reading </h1>
+<h1 align="center"> Tanks for reading </h1>
