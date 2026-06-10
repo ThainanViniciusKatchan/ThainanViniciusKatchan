@@ -1,7 +1,7 @@
 <div align="center">
     <strong style="font-size: 20px;"> Hi ✋, here Thainan Vinicius Katchan </strong>
     <br>
-    Aim developer student, I study Python, Java, JS, HTML, and CSS.
+    Aim developer student, I study Python, Java, Rust, JS, HTML, and CSS.
     <br>
     I'm 26 years old, I live in Brazil.
     <br>
