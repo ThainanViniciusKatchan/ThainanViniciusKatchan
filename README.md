@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-    [![snake animation](https://github.com/ThainanViniciusKatchan/ThainanViniciusKatchan/blob/output/github-contribution-grid-snake2.svg)]
+    <img src="https://raw.githubusercontent.com/ThainanViniciusKatchan/ThainanViniciusKatchan/output/github-contribution-grid-snake2.svg" alt="Snake animation">
 </div>
 
 <h1 align="center"> Tanks for reading </h1>
