@@ -3,7 +3,7 @@
     <br>
     Aim developer student, I study Python, Java, Rust, JS, HTML, and CSS.
     <br>
-    I'm 26 years old, I live in Brazil.
+    I'm 27 years old, I live in Brazil.
     <br>
     my first language of programming is Python.
     <br>
